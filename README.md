@@ -1,2 +1,1 @@
-# qq-h5
-qq html5 player
+在非mac平台上使用qq html5播放
